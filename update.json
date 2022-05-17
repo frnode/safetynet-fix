@@ -1,6 +1,6 @@
 {
-    "version": "v2.2.1",
-    "versionCode": 20201,
-    "zipUrl": "https://github.com/frnode/safetynet-fix/releases/download/v2.2.1/safetynet-fix-v2.2.1.zip",
+    "version": "v2.3.0",
+    "versionCode": 20300,
+    "zipUrl": "https://github.com/frnode/safetynet-fix/releases/download/v2.3.0/safetynet-fix-v2.3.0.zip",
     "changelog": "https://raw.githubusercontent.com/frnode/safetynet-fix/master/CHANGELOG.md"
 }

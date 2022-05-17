@@ -1,3 +1,11 @@
+# v2.3.0 (Zygisk)
+
+**This version only supports Zygisk. See v2.1.3 for a Riru version.**
+
+- Fixed fingerprint scanner
+- Fixed SafetyNet Pass (now "pass" all verifications)
+- Add Docker container for build Magisk module (only Zygisk tested)
+
 # v2.2.1 (Zygisk)
 
 **This version only supports Zygisk. See v2.1.3 for a Riru version.**

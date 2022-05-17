@@ -1,7 +1,7 @@
 id=safetynet-fix
 name=Universal SafetyNet Fix
-version=v2.2.1
-versionCode=20201
+version=v2.3.0
+versionCode=20300
 author=kdrag0n, frnode
 description=A universal fix for SafetyNet on Android 8–12 devices with hardware attestation and unlocked bootloaders.
 updateJson=https://raw.githubusercontent.com/frnode/safetynet-fix/master/update.json

@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  android-build:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+
+    working_dir: /opt/safetynet-fix
+    command: ['bash', 'build.sh']
+    # debug
+    # command: ['bash', '-c', 'while sleep 1000; do :; done']
+    volumes:
+      - ./:/opt/safetynet-fix
