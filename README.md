@@ -1,4 +1,4 @@
-# Universal SafetyNet Fix
+# Universal SafetyNet Fix - Updated
 
 Magisk module to work around Google's SafetyNet attestation.
 
@@ -10,11 +10,11 @@ Android versions up to 13 Developer Preview 1 are supported, including OEM skins
 
 ## Download
 
-**[Download latest version](https://github.com/kdrag0n/safetynet-fix/releases)**
+**[Download latest version](https://github.com/frnode/safetynet-fix/releases)**
 
 Install the downloaded module in Magisk Manager, then **enable Zygisk in Magisk settings.**
 
-There is also a [Riru version](https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.1.3) for Magisk v23 and older.
+There is also a [Riru version](https://github.com/frnode/safetynet-fix/releases/tag/v2.1.3) for Magisk v23 and older.
 
 ## How does it work?
 
@@ -23,7 +23,3 @@ See [Details](docs/details.md) for details about how this module works.
 ## ROM integration
 
 Ideally, this workaround should be incorporated in custom ROMs instead of injecting code with a Magisk module. See the [ProtonAOSP website](https://protonaosp.org/developers/details/safetynet) for more information.
-
-## Support
-
-If you found this module helpful, please consider supporting development with a **[recurring donation](https://patreon.com/kdrag0n)** on Patreon for benefits such as exclusive behind-the-scenes development news, early access to updates, and priority support. Alternatively, you can also [buy me a coffee](https://paypal.me/kdrag0ndonate). All support is appreciated.
